@@ -12,7 +12,7 @@
 
 void wCenterTitle(WINDOW *pwin, const char * title)
 {
-    ss;
+  
     int x, maxy, maxx, stringsize;
     getmaxyx(pwin, maxy, maxx);
     stringsize = 4 + strlen(title);
