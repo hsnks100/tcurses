@@ -53,4 +53,4 @@ int main()
 
 # result
 
-![image](https://user-images.githubusercontent.com/3623889/52909546-670b7780-32cd-11e9-8802-b2c22766a0fa.png)
+![title-bar](https://user-images.githubusercontent.com/3623889/52909561-a4700500-32cd-11e9-9309-fee3cdf0d3e6.gif)
